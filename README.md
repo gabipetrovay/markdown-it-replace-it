@@ -102,3 +102,4 @@ md.renderInline('Hello... "world"---');
   * returned to plain JavaScript (instead of [CoffeeScript](https://insights.dice.com/2020/02/03/5-programming-languages-you-wont-use-2030/))
   * adding the inline HTML support
   * propagating the parser state environment to the substitution function. This environment is used by some frameworks or modules (like [11ty](https://github.com/11ty/eleventy)) to provide dynamic values during the markdown conversion.
+
