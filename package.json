@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Gabriel Petrovay"
+  },
+  "bugs": {
+    "url": "https://github.com/gabipetrovay/markdown-it-replace-it/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Customize replacements in markdown-it typographer",
+  "devDependencies": {
+    "markdown-it": "^12.0.4",
+    "mocha": "^8.2.1"
+  },
+  "homepage": "https://github.com/gabipetrovay/markdown-it-replace-it#readme",
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "markdown-it-replace-it",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabipetrovay/markdown-it-replace-it.git"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "version": "1.0.0"
+}
